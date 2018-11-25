@@ -141,7 +141,7 @@ navbar:
           href: metadata.html
     - icon: fab fa-github
       href: https://github.com/rstudio/radix
-output: distill::distill_article
+output: radix::radix_article
 ---
 ```
 
